@@ -2,9 +2,30 @@
 #### RSSchool student 
 
 ---
+## Personal info
 
+**CONTACT**
 
-![About](assets/icons/about.svg) **ABOUT ME**
+* __LOCATION:__ Minsk, Belarus
+* __MOBILE:__ +7 985 449 9432
+* __MAIL:__ slavakah1@gmail.com
+* __TELEGRAM:__ @KahaRinS
+
+**LANGUAGE**
+
+* BELORUSSIAN __*NATIVE*__
+* RUSSIAN __*NATIVE*__
+* ENGLISH __*B1*__
+* SIMLISH __*C1*__
+
+**HOBBIES**
+
+&#8195;Cooking &#8195;Programming 
+&#8195;Tennis&#8195;Snowboarding
+
+---
+
+**ABOUT ME**
 
 Hello! My name is Slava. It’s my first task from RSSchool.
 And here a lot of information about me:
