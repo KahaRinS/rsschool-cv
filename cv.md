@@ -34,3 +34,40 @@ I have been studying algorithmization since I was two years old. However, like a
 
 And so it happened that I am now writing this text in the VS code to pass the autotest.
 
+**EDUCATION**  
+
+__BELARUSIAN STATE UNIVERSITY OF INFORMATICS AND RADIO ELECTRONICS__
+
+__SPECIALTY: DESIGN AND PRODUCTION OF PROGRAM-CONTROLLED ELECTRONIC__
+
+__MEANS 2019 - NV__
+
+**SKILLS** 
+
+- HARD
+   - *WEB: CSS, HTML*
+   - *Git, GitHub*
+   - *PL: C#, C++, Assembler, JS, Python*
+   - *CAD: AutoCAD, SolidWorks, AltiumDesigner*
+   - *Photoshop, Vegas, etc*  
+- SOFT
+   - *Critical thinking*
+   - *Communicative*
+   - *Teamwork*
+   - *Problem solving*
+   - *Quick learning skills*
+   - *Willingness to learn*
+
+   --- 
+
+   **CODE EXAMPLES**
+```C++
+#include <iostream>
+int main()
+{
+  std::cout << "Hello, World!" << std::endl;
+  return 0;
+}
+```
+  **PROJECTS**  
+  * [my CV (MD)](https://KahaRinS.github.io/rsschool-cv/cv)
