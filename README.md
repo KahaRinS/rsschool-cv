@@ -1,1 +1,1 @@
-# rsschool-cv
+https://KahaRinS.github.io/rsschool-cv/cvg
